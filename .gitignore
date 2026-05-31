@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local temp and downloads
+temp/
+downloads/
+
+# Large gallery and cache
+Gallery/
+gallery/
+.pixify_cache.json
+gallery/.pixify_cache.json
+Gallery/.pixify_cache.json
+
+# Local ide / system files
+.idea/
+.vscode/
+.DS_Store
+*.log
